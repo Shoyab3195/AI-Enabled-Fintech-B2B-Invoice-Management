@@ -1,0 +1,164 @@
+body {
+    background-color: #2d4250;
+    color: white;
+    font-family: sans-serif;
+    
+  }
+  
+  .section1 {
+    background-color: #283d4a;
+    justify-content: center;
+    font-size: small;
+    color: white;
+    display: flex;
+    font-size: 25px;
+    margin-bottom: 10px;
+    height: 100px;
+    font-family: monospace;
+
+  }
+   
+  button {
+    background-color: #283d4a;
+    color: white;
+    border-color: dodgerblue;
+    font-size: small;
+    padding: 7px;
+    border-radius: 10px;
+  }
+  #searchid {
+    font-size: small;
+    width: 200px;
+    height: 40px;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-left: 120px;
+    margin-right: 150px;
+  }
+  .btn {
+    width: 140px;
+    display: inline-block;
+    text-align: center;
+    flex: 1;
+    flex-direction: row;
+  }
+  
+  .Datagrid{
+    color: white;
+  }
+ #logo3{
+  position: fixed;
+  top:0;
+  left:0; 
+ }
+ #logo4{
+  position: fixed;
+  justify-content: center;
+  align-items: center;
+  top: 0;
+  margin-left: 430;
+ 
+ }
+  .footer{
+
+  margin-top: 1rem;
+  padding: 1rem;
+ 
+  position: fixed;
+  bottom: auto;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+} 
+
+.dialog{
+  background-color: #283d4a;
+}
+
+
+
+
+
+ .css-3ihp42-MuiDataGrid-root .MuiDataGrid-cell {
+  color: white;
+}
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root {
+  color: white;
+}
+.css-12wnr2w-MuiButtonBase-root-MuiCheckbox-root {
+  color: white;
+}
+.css-3ihp42-MuiDataGrid-root .MuiDataGrid-columnHeader:not(.MuiDataGrid-columnHeader--sorted) .MuiDataGrid-sortIcon {
+  color: white;
+}
+.css-1jbbcbn-MuiDataGrid-columnHeaderTitle {
+  color: white;
+}
+.css-1m9pwf3 {
+  color: white;
+}
+.css-rtrcn9-MuiTablePagination-root {
+  color: white;
+}
+.css-de9k3v-MuiDataGrid-selectedRowCount {
+  color: white;
+}
+.css-de9k3v-MuiDataGrid-selectedRowCount {
+  color: white;
+}
+.css-levciy-MuiTablePagination-displayedRows{
+  color: white;
+}
+.css-i4bv87-MuiSvgIcon-root {
+  color: white;
+}
+
+textarea {
+  background-color: white !important;
+
+}
+.css-dpjnhs-MuiInputBase-root-MuiOutlinedInput-root {
+background-color: white !important;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+background-color: white !important;
+}
+
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root{
+line-height: 2.9375em;
+}
+/* delete css */
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper{
+background-color: #546e7a !important;
+}
+.css-bdhsul-MuiTypography-root-MuiDialogTitle-root{
+color: white;
+}
+.css-qfso29-MuiTypography-root-MuiDialogContentText-root {
+color: white !important;
+}
+.css-rtrcn9-MuiTablePagination-root .MuiTablePagination-selectLabel{
+  color:white;
+}
+.css-ptiqhd-MuiSvgIcon-root{
+  color:aliceblue ;
+}
+.css-194a1fa-MuiSelect-select-MuiInputBase-input.MuiSelect-select{
+  color: white;
+}
+/*ADD CSS*/
+.css-1kuvi62-MuiInputBase-root-MuiFilledInput-root{
+  background-color: white !important;
+}
+.css-10botns-MuiInputBase-input-MuiFilledInput-input{
+
+  background-color: white !important;
+}
+.dialogbox{
+  background-color: #283d4a;
+}
+
+.css-1rwt2y5-MuiButtonBase-root-MuiButton-root{
+  color: white !important;
+}
